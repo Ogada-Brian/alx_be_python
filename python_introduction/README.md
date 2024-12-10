@@ -56,3 +56,5 @@ Multiplication of 10 and 5 is 50
 CALCULATE AREA OF RECTANGLE
 The objective is to use basic Python arithmentic operations and variable assignements tocaculate the area of a rectangle
 
+CONVERT HOURS TO SECONDS
+Converts a specific number of hours into seconds
