@@ -58,3 +58,8 @@ The objective is to use basic Python arithmentic operations and variable assigne
 
 CONVERT HOURS TO SECONDS
 Converts a specific number of hours into seconds
+
+USER INPUT AGE CALCULATOR
+Program receives user input and calculates the user's age in 2050
+
+
